@@ -2,7 +2,7 @@
 
 
 
-<img src="./MHDIff.png" style="zoom:100%;" />
+<img src="./MHDiff.png" style="zoom:100%;" />
 
 
 
